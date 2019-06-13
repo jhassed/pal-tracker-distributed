@@ -7,6 +7,6 @@ applications:
   instances: 1
   env:
     JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
-    REGISTRATION_SERVER_ENDPOINT: https://registration-pal-paul-jim.apps.sys.evans.pal.pivotal.io
+    REGISTRATION_SERVER_ENDPOINT: https://apps.sys.evans.pal.pivotal.io
   services:
   - tracker-registration-database
