@@ -1,0 +1,5 @@
+./gradlew cloudNativeDeveloperDistributedSystemWithCircuitBreaker 
+-PregistrationServerUrl=https://registration-pal-paul-jim.apps.evans.pal.pivotal.io 
+-PbacklogServerUrl=https://backlog-pal-paul-jim.apps.evans.pal.pivotal.io 
+-PallocationsServerUrl=https://allocations-pal-paul-jim.apps.evans.pal.pivotal.io 
+-PtimesheetsServerUrl=https://timesheets-pal-paul-jim.apps.evans.pal.pivotal.io
